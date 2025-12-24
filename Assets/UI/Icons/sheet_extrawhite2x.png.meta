@@ -1,0 +1,1922 @@
+fileFormatVersion: 2
+guid: ca03ef710b502cd4d9ff9adcdf653efa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89909526f8669cb469ecdd15345110d6
+      internalID: -98383110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f783dc7afcc91947aa7bec17c56f03a
+      internalID: -1231430550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d312baa721f0fc4aabd1f3eb6d38f89
+      internalID: 70890133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125eb10754d5e1e449c00015f84bfeb5
+      internalID: -863136861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcea5960974dda4fbe62dedfe92f4cc
+      internalID: 1618626436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143da271c02e9b6448a6daeeb8706476
+      internalID: 759737918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b09357ace2714e93d6d67e01aee12
+      internalID: -1968766184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b34f0cd26da6046ad2670b8c2081aa
+      internalID: 2147197869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e32a60183944254f9ce871def3ccf5e
+      internalID: -1172515143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29945d310d8eb94409fd9b52818c8924
+      internalID: 2030629474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad3c67849bfde469664978cca17b28
+      internalID: 363545124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22c6e462f64504b8f58df735168244
+      internalID: 27023140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d13beb8bd2a24f8de2c4ee11ee742
+      internalID: 1297451694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d426d59a657a4da58513bf9ba288c
+      internalID: 976162839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9566609617d74da2f4b1c59a21d96
+      internalID: -93638573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841db0eccc4cefb47bbab7ea6f705b6f
+      internalID: 301450033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102a45ab9e3d9a41849f4bfb13f459d
+      internalID: 1471817962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b27196dae5c949b67edaf3693693e
+      internalID: -538674496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579fb70121dcf8741b73a27f1aa49ed7
+      internalID: 927719455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39115c0d6bca2a84b95c74e54969e3e9
+      internalID: -1375080246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c387f2b5cd12584580bf14ef0943c30
+      internalID: -2093492676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c22d974b680d458194cff6f2b9e7d
+      internalID: 97939488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a643e377c02244094db55db76487bd
+      internalID: 986121973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ae8fceff55f241a8b80921da84aed
+      internalID: -1558223078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d768c016e44daa479d7db33c76d9c80
+      internalID: -623513730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf31361435b324ba9b17fcf50da1fa
+      internalID: -1524039314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfd68e02d033140bcc7548af68d4a7
+      internalID: -820973989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9b30ffef7e0b4d95f23afcbaea32e
+      internalID: -1527178329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91c7ff1bf7b9441aaa1631e4d8117a
+      internalID: 1661121167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee07e419f41e12429f23cf12c8e55e4
+      internalID: -1080381246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5dd92705f2a5b48bcd98f2aacb7575
+      internalID: -241953575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e91dcac12516846ad66294f6558370
+      internalID: 1376148627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7abbaf11ea7c9e4fa6f60abf35e5631
+      internalID: -1882659705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d688f5573c5194b832bdb749d49e89
+      internalID: -1880937719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a2c6ef36c8b6c42a3544a232bbafa2
+      internalID: -1241560060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37fb621433cf543b4492a45151b97c
+      internalID: 1386286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091772de8ccbb54a8eabf81d425944f
+      internalID: -85385340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c11663e502f92489e3a5f1c8ea4625
+      internalID: -1044552197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a299139d11fe92e44b27624c8ceb43ef
+      internalID: 1828119567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a4d47e859c8a4c88d404aeff388e0
+      internalID: -1761341819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0318d91cb8d649ba0f30019e3d17a
+      internalID: 1143078011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8510e67fafc89488638665e74bfb9e
+      internalID: 980418067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e3a111cedbf0479d3002957682090
+      internalID: 1173482257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbeecd698f97046b4ba807a5bfd40c
+      internalID: -1542250526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29d91a0cbf4fc47b22c6f6086a512d
+      internalID: -1106699869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eca0787dce02c4ab47687c44f05dbb
+      internalID: 1283836483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c038231ecf984b9b93266df024242
+      internalID: -665122100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989693c5b692dd449da807fed179b4d
+      internalID: -117728057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa591bf3a8852714aa4c54e022834f7b
+      internalID: 92558616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df075f38e5816848af51d8bb6d0cdd8
+      internalID: -962885208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03895926aaf5654ea98eb33f10f5102
+      internalID: 1922138134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0a7f21fbb81749918a6e2a0bc1f1d
+      internalID: 1102075189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5317ee872c6346a2e0fc87926615b
+      internalID: -101177520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a8ab42fc2f55c41975401f31a81888
+      internalID: 1185715072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd0e07e485f498478e4c7971b3ebf5c
+      internalID: -718088832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cea0fe223827747adf2eb40aeca884
+      internalID: -872268856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f6756a774f1074f848a772b2a11e4b
+      internalID: -18132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1f82c9a8a56f4f887da6160c99d0b
+      internalID: -743191935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae3d7eca62f87498363f89ff7c8b6c
+      internalID: 882952659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d052d06ca0b4441ba98cea629af6cf
+      internalID: 615364221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d772046c3a7c4e92ee2d61f66d5ee
+      internalID: 1560284755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8006205cbbb26b4880a2b4efaab58c4
+      internalID: 38252793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8c1311afaea8428d2fb6e106f349a
+      internalID: 771024266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80759cd77cb96fd48812fa2e3af9ad20
+      internalID: -873098804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_64
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0719ba586c0349912a85b3cfcf83d
+      internalID: 1699783948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3ab96a853deb4cbce97d832796b53
+      internalID: 2016872551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c7a18d2da70247829ed3913aaea34
+      internalID: -1729393873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107f2acef72aad4fab87932e0093da8
+      internalID: -1378323182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b520a66416553489716d7ee081a50f
+      internalID: 1756801981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2236bf0cc89de4dae0ddd7bcf1d14f
+      internalID: -1615974968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef777b3adf7ed2408d53486227eb6c3
+      internalID: -1076555812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdb0841f39016e4cafb8ac222647621
+      internalID: -1742214519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415b33783fb4cb4b9d940541c2883a2
+      internalID: 160859279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2d173abe3c4b4f98f0072b70fa9f9
+      internalID: 1684394167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b504c434bf0247afc441ad2ffd5f1
+      internalID: 550992371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d069c603596a8143b75ef69bb02ec90
+      internalID: 1674509605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3e1cbe8509d44fa46f59226aef623
+      internalID: -121179634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0fbae86ba4334c80a5e2e7a8fffcf
+      internalID: -1477113522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a31dcc3eb1c7643b16f15afa330dd6
+      internalID: -1812310482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce23a5134278de448ecb394435746ab
+      internalID: -758268552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_extrawhite2x_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedee5a376e9bc48b9767f5c61b802c
+      internalID: 1204471394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f773fb320356c2941a387cb301dfcaaf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_extrawhite2x_0: -98383110
+      sheet_extrawhite2x_1: -1231430550
+      sheet_extrawhite2x_10: 363545124
+      sheet_extrawhite2x_11: 27023140
+      sheet_extrawhite2x_12: 1297451694
+      sheet_extrawhite2x_13: 976162839
+      sheet_extrawhite2x_14: -93638573
+      sheet_extrawhite2x_15: 301450033
+      sheet_extrawhite2x_16: 1471817962
+      sheet_extrawhite2x_17: -538674496
+      sheet_extrawhite2x_18: 927719455
+      sheet_extrawhite2x_19: -1375080246
+      sheet_extrawhite2x_2: 70890133
+      sheet_extrawhite2x_20: -2093492676
+      sheet_extrawhite2x_21: 97939488
+      sheet_extrawhite2x_22: 986121973
+      sheet_extrawhite2x_23: -1558223078
+      sheet_extrawhite2x_24: -623513730
+      sheet_extrawhite2x_25: -1524039314
+      sheet_extrawhite2x_26: -820973989
+      sheet_extrawhite2x_27: -1527178329
+      sheet_extrawhite2x_28: 1661121167
+      sheet_extrawhite2x_29: -1080381246
+      sheet_extrawhite2x_3: -863136861
+      sheet_extrawhite2x_30: -241953575
+      sheet_extrawhite2x_31: 1376148627
+      sheet_extrawhite2x_32: -1882659705
+      sheet_extrawhite2x_33: -1880937719
+      sheet_extrawhite2x_34: -1241560060
+      sheet_extrawhite2x_35: 1386286888
+      sheet_extrawhite2x_36: -85385340
+      sheet_extrawhite2x_37: -1044552197
+      sheet_extrawhite2x_38: 1828119567
+      sheet_extrawhite2x_39: -1761341819
+      sheet_extrawhite2x_4: 1618626436
+      sheet_extrawhite2x_40: 1143078011
+      sheet_extrawhite2x_41: 980418067
+      sheet_extrawhite2x_42: 1173482257
+      sheet_extrawhite2x_43: -1542250526
+      sheet_extrawhite2x_44: -1106699869
+      sheet_extrawhite2x_45: 1283836483
+      sheet_extrawhite2x_46: -665122100
+      sheet_extrawhite2x_47: -117728057
+      sheet_extrawhite2x_48: 92558616
+      sheet_extrawhite2x_49: -962885208
+      sheet_extrawhite2x_5: 759737918
+      sheet_extrawhite2x_50: 1922138134
+      sheet_extrawhite2x_51: 1102075189
+      sheet_extrawhite2x_52: -101177520
+      sheet_extrawhite2x_53: 1185715072
+      sheet_extrawhite2x_54: -718088832
+      sheet_extrawhite2x_55: -872268856
+      sheet_extrawhite2x_56: -18132615
+      sheet_extrawhite2x_57: -743191935
+      sheet_extrawhite2x_58: 882952659
+      sheet_extrawhite2x_59: 615364221
+      sheet_extrawhite2x_6: -1968766184
+      sheet_extrawhite2x_60: 1560284755
+      sheet_extrawhite2x_61: 38252793
+      sheet_extrawhite2x_62: 771024266
+      sheet_extrawhite2x_63: -873098804
+      sheet_extrawhite2x_64: 1699783948
+      sheet_extrawhite2x_65: 2016872551
+      sheet_extrawhite2x_66: -1729393873
+      sheet_extrawhite2x_67: -1378323182
+      sheet_extrawhite2x_68: 1756801981
+      sheet_extrawhite2x_69: -1615974968
+      sheet_extrawhite2x_7: 2147197869
+      sheet_extrawhite2x_70: -1076555812
+      sheet_extrawhite2x_71: -1742214519
+      sheet_extrawhite2x_72: 160859279
+      sheet_extrawhite2x_73: 1684394167
+      sheet_extrawhite2x_74: 550992371
+      sheet_extrawhite2x_75: 1674509605
+      sheet_extrawhite2x_76: -121179634
+      sheet_extrawhite2x_77: -1477113522
+      sheet_extrawhite2x_78: -1812310482
+      sheet_extrawhite2x_79: -758268552
+      sheet_extrawhite2x_8: -1172515143
+      sheet_extrawhite2x_80: 1204471394
+      sheet_extrawhite2x_9: 2030629474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
